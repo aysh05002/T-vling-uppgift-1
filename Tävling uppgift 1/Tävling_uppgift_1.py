@@ -1,7 +1,7 @@
 tor=int(input("Tors tid ? "))
 mor=int(input("Mors tid ? "))
 
-y=40
+y=int(input("Hur manga morotter finns ? "))
 
 if tor>mor:
     x=tor/mor
