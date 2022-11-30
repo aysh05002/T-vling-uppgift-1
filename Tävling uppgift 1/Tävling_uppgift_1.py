@@ -20,7 +20,7 @@ elif mor>tor:
         y-=(1+x*1)
         t+=1*x
         m+=1
-    print("Svar: Tor ", int(t), "Mor ", int(m))
+    print("Svar: Tor ", int(t), ", Mor ", int(m))
 
 else:
-    print("Savr:Tor 20, Mor 20")
+    print("Savr: Tor 20 , Mor 20")
